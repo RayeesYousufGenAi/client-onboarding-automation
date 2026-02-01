@@ -15,6 +15,12 @@ Automated Client Onboarding System is a comprehensive n8n workflow that automate
 
 ---
 
+## 📊 Workflow Diagram
+
+![Client Onboarding Workflow](assets/workflow.png)
+
+---
+
 ## ✨ Key Features
 
 ### 🎯 Core Automation
